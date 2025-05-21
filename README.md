@@ -104,26 +104,6 @@ python json_to_braille.py
 }
 ```
 
----
-
-## 🎥 Demo Video (Not Included in Repo)
-
-Please refer to the separate demo video (2–3 mins) showcasing:
-
-- Input `.jpeg` files
-- OCR extraction
-- Braille conversion
-- Output files and results
-
----
-
-## ✅ Final Notes
-
-- The language used is English; Hindi support can be added using `hi-in-g1.ctb` if available in Liblouis.
-- This pipeline is modular and scalable — ideal for larger datasets or real-time applications in accessibility tech.
-
----
-
 ## 🙏 Acknowledgments
 
 Thanks to Flickdone for this unique opportunity to build for accessibility and inclusion through AI.
