@@ -4,7 +4,7 @@ import pytesseract
 import json
 
 # Replace with your image folder path
-directory = 'C:/Users/callus_intern'
+directory = 'C:/Users/flickdone_intern'
 
 # Path to save the JSON output
 output_file = 'ocr_output.json'
