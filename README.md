@@ -136,16 +136,6 @@ Update this path inside your Korean Braille script.
 
 ---
 
-## ❓ Possible Interview Questions
-
-| Question | Suggested Answer |
-|---------|------------------|
-| **Why use JSON?** | It’s lightweight, human-readable, and ideal for structured parallel corpus generation. |
-| **Why use Liblouis?** | It’s the industry-standard open-source Braille translator supporting over 70 languages. |
-| **What challenge did you face with Korean?** | Korean OCR needed explicit `lang='kor'` and a custom `ko-g1.ctb` Braille table not bundled by default. |
-| **How does the ETL work?** | The pipeline extracts (OCR), transforms (via Liblouis), and loads (into JSON) for structured AI training. |
-| **What is the difference between Grade 1 and Grade 2 Braille?** | Grade 1 represents each letter directly. Grade 2 includes contractions for efficiency and is more commonly used. |
-
 ---
 
 ## 🙏 Acknowledgments
