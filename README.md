@@ -1,6 +1,6 @@
-# 🧠 Braille ETL Pipeline – Flickdone Assessment
+# 🧠 Braille ETL Pipeline
 
-This project simulates a core part of Flickdone’s AI data preparation workflow: **converting unstructured scanned documents into a structured parallel corpus for Braille translation**.  
+This project simulates AI data preparation workflow: **converting unstructured scanned documents into a structured parallel corpus for Braille translation**.  
 It supports **multi-language OCR (e.g., English and Korean)** and uses **Liblouis** to generate Braille equivalents.
 
 ---
@@ -136,10 +136,4 @@ Update this path inside your Korean Braille script.
 
 ---
 
----
 
-## 🙏 Acknowledgments
-
-Thanks to **Flickdone** for this meaningful project that contributes toward accessibility, inclusion, and assistive AI technologies.
-
----
